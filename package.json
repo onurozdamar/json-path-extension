@@ -4,6 +4,9 @@
   "description": "get json path extension",
   "publisher": "onurozdamar",
   "version": "0.2.0",
+  "repository": {
+    "url": "https://github.com/onurozdamar/json-path-extension"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
