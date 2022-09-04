@@ -1,3 +1,3 @@
 # json-path-extension README
 
-Hello
+Use control + command + c to copy fullpath from a json.
